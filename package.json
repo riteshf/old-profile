@@ -1,15 +1,15 @@
 {
-  "name": "@arifszn/gitprofile",
+  "name": "riteshf.github.io",
   "description": "Create an automatic portfolio based on GitHub profile",
   "version": "2.1.0",
   "license": "MIT",
-  "author": "arifszn",
+  "author": "riteshf",
   "repository": {
     "type": "git",
-    "url": "https://github.com/arifszn/gitprofile.git"
+    "url": "https://github.com/riteshf/riteshf.github.io.git"
   },
   "bugs": {
-    "url": "https://github.com/arifszn/gitprofile/issues"
+    "url": "https://github.com/riteshf/riteshf.github.io/issues"
   },
   "files": [
     "dist/gitprofile.es.js",

@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'riteshf', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -11,74 +11,81 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
+    linkedin: 'riteshfirodiya',
+    twitter: '',
     facebook: '',
     instagram: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: '',
     stackoverflow: '', // format: userid/username
-    website: 'https://arifszn.github.io',
+    website: 'https://riteshf.github.io',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'firodiya.ritesh@gmail.com',
   },
   resume: {
     fileUrl: 'resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
+    'Typescript',
     'React.js',
     'Node.js',
-    'Nest.js',
-    'MySQL',
+    'Deno',
+    'MongoDB',
     'PostgreSQL',
     'Git',
-    'Docker',
-    'PHPUnit',
+    'ReactNative',
+    'Chakra-UI',
     'CSS',
     'Antd',
     'Tailwind',
+    'MUI',
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Masai School',
+      position: 'SDE-3',
+      from: 'October 2021',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://masaischool.com',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Swiggy',
+      position: 'Senior Software Engineer (contact employee by Recro)',
+      from: 'November 2020',
+      to: 'September 2021',
+      companyLink: 'https://www.swiggy.com/',
+    },
+    {
+      company: 'Globant',
+      position: 'Senior Software  Engineer',
+      from: 'September 2019',
+      to: 'November 2020',
+      companyLink: 'https://www.globant.com/',
+    },
+    {
+      company: 'Confluxsys',
+      position: 'Software  Engineer',
+      from: 'June 2017',
+      to: 'September 2019',
+      companyLink: 'http://www.confluxsys.com/confluxsys/',
     },
   ],
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'P.V.G. College of Engineering and Technology',
+      degree: 'Bachelor in Computer Engineering',
+      from: '2013',
+      to: '2017',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
-  blog: {
-    source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
-    limit: 3, // How many posts to display. Max is 10.
-  },
+  // blog: {
+  //   source: 'dev', // medium | dev
+  //   username: 'riteshf', // to hide blog section, keep it empty
+  //   limit: 3, // How many posts to display. Max is 10.
+  // },
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
   },
