@@ -51,8 +51,8 @@ const config = {
       companyLink: 'https://masaischool.com',
     },
     {
-      company: 'Swiggy',
-      position: 'Senior Software Engineer (contact employee by Recro)',
+      company: 'Swiggy (Contract by Recro)',
+      position: 'Senior Software Engineer ',
       from: 'November 2020',
       to: 'September 2021',
       companyLink: 'https://www.swiggy.com/',
